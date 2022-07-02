@@ -7,7 +7,7 @@
 // GlobalEvents.AddListner(
 //   () => funcToGetValueYouLookingFor(),
 //   currentValueYouLookingFor,
-//   () => funcEventHandlerYouWantToCallOnNewValue()
+//   () => funcEventHandlerYouWantToCallOnNewValue(newVal)
 // );
 // Don`t forget to start your GlobalEvents Listner
 
